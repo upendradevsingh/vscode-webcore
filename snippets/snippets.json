@@ -16,7 +16,7 @@
             " * For more information on configuration, check out:",
             " * https://github.com/jabong/knucklehead#route-schema",
             " */\n",
-            "const { connect } = require('@jabong/kuncklehead');\n",
+            "const { connect } = require('@jabong/knucklehead');\n",
             "// Add other module dependencies here if any\n",
             "/**",
             " * @description",
