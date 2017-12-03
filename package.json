@@ -2,7 +2,7 @@
     "name": "vscode-webcore",
     "displayName": "vscode-webcore",
     "description": "Javascript Functional Programming Code Snippets",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "upendradevsingh",
     "engines": {
         "vscode": "^1.18.0"
